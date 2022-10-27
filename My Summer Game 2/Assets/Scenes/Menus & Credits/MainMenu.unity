@@ -691,6 +691,7 @@ GameObject:
   - component: {fileID: 1270894768}
   - component: {fileID: 1270894767}
   - component: {fileID: 1270894766}
+  - component: {fileID: 1270894769}
   m_Layer: 5
   m_Name: GitHubButton
   m_TagString: Untagged
@@ -761,7 +762,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1270894767}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1270894769}
+        m_TargetAssemblyTypeName: OpenURL, Assembly-CSharp
+        m_MethodName: Open
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
 --- !u!114 &1270894767
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -800,6 +813,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1270894764}
   m_CullTransparentMesh: 1
+--- !u!114 &1270894769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1270894764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a966238462a35074098935229a092c82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  URL: 
 --- !u!1 &1597231795
 GameObject:
   m_ObjectHideFlags: 0
@@ -812,6 +838,7 @@ GameObject:
   - component: {fileID: 1597231799}
   - component: {fileID: 1597231798}
   - component: {fileID: 1597231797}
+  - component: {fileID: 1597231800}
   m_Layer: 5
   m_Name: CloseButton
   m_TagString: Untagged
@@ -882,7 +909,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1597231798}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1597231800}
+        m_TargetAssemblyTypeName: QuitScript, Assembly-CSharp
+        m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
 --- !u!114 &1597231798
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -921,6 +960,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1597231795}
   m_CullTransparentMesh: 1
+--- !u!114 &1597231800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1597231795}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0b84b6e54c5ed45a29676053841320, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1788623567
 GameObject:
   m_ObjectHideFlags: 0
@@ -1259,6 +1310,7 @@ GameObject:
   - component: {fileID: 1979249937}
   - component: {fileID: 1979249936}
   - component: {fileID: 1979249935}
+  - component: {fileID: 1979249938}
   m_Layer: 5
   m_Name: DiscordButton
   m_TagString: Untagged
@@ -1329,7 +1381,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1979249936}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1979249938}
+        m_TargetAssemblyTypeName: OpenURL, Assembly-CSharp
+        m_MethodName: Open
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1979249936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1368,3 +1432,16 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1979249933}
   m_CullTransparentMesh: 1
+--- !u!114 &1979249938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979249933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a966238462a35074098935229a092c82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  URL: 
