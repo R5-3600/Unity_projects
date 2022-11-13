@@ -293,7 +293,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -277.68362, y: -173.3}
+  m_AnchoredPosition: {x: -277.69, y: -180.4}
   m_SizeDelta: {x: 226.8328, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &292994205
@@ -317,7 +317,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: What you see here may or may not be in the final build in the summer of
-    2023. This is in middle of development.
+    2023. This is in middle of development. The build that you have now is the demo
+    build 1.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ea8d8a69427b9524896a3ed882c30380, type: 2}
   m_sharedMaterial: {fileID: -11985850572821592, guid: ea8d8a69427b9524896a3ed882c30380, type: 2}
@@ -344,8 +345,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 15
-  m_fontSizeBase: 15
+  m_fontSize: 10
+  m_fontSizeBase: 10
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -380,7 +381,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -214.52893, w: 0}
+  m_margin: {x: 0, y: 0, z: -210.00955, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -825,7 +826,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a966238462a35074098935229a092c82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  URL: 
+  URL: https://github.com/Ryzen9-5950X-RTX3090/Unity_projects/tree/MySummerGame2
 --- !u!1 &1597231795
 GameObject:
   m_ObjectHideFlags: 0
