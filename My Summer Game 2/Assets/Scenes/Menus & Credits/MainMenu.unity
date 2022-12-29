@@ -351,7 +351,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -1328,6 +1328,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1788623571}
     m_Modifications:
+    - target: {fileID: 2153626158305804812, guid: 66056a71e89bcda44869362ee7e823b3, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2153626159521396433, guid: 66056a71e89bcda44869362ee7e823b3, type: 3}
       propertyPath: m_Name
       value: PlayNowButton
