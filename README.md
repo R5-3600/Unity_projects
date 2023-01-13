@@ -8,9 +8,7 @@ Release schedule -
 
 January 2023, dev testing.
 
-Febuary 2023, closed beta testing.
-
-April 2023, public beta testing.
+March 2023, partial release.
 
 May 2023, full public release.
 
