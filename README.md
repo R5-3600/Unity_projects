@@ -6,8 +6,6 @@ This is still in a work in progress.
 
 Release schedule - 
 
-January 2023, dev testing.
-
 March 2023, partial release.
 
 May 2023, full public release.
