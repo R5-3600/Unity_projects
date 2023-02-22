@@ -7,7 +7,7 @@ public class GameMenu : MonoBehaviour {
 
 	// Use this for initialization
 	public void Click () {
-		SceneManager.LoadScene ("discord");
+		SceneManager.LoadScene ("game");
 	}
 
 	// Update is called once per frame
