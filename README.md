@@ -6,7 +6,7 @@ This is still in a work in progress.
 
 Release schedule - 
 
-March 2023, partial release.
+February 25, 2023, partial release.
 
 May 2023, full public release.
 
