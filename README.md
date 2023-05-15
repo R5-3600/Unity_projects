@@ -1,4 +1,4 @@
-# Welcome to the directory of my Unity projects and where to download pre-built binaries that are built by me
+# Welcome to the directory of my Unity projects and where to download the latest pre-built binaries that are built by me
 
 The Deep Dark Space (Wallpaper, v3): Coming soon...
 
