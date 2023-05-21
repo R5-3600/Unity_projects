@@ -6,7 +6,7 @@ My Summer Game (re-release): Coming soon...
 
 My Summer Game 2 (new): Coming soon in 2024 or 2025...
 
-Bean Counters (revival): Windows & Linux: https://github.com/R5-3600/projects/releases/tag/BeanCounters-V9.0.0    |    Android: Waiting for Google to approve the update on the Google Play Store.
+Bean Counters: Windows & Linux: https://github.com/R5-3600/projects/releases/tag/BeanCounters-V9.0.0    |    Android: Waiting for Google to approve the update on the Google Play Store.
 
 Flappy Cow: Windows & Linux: https://github.com/R5-3600/projects/releases/tag/FlappyCow_V3.0.0    |    Android: https://play.google.com/store/apps/details?id=com.TeamUnusual.FlappyCow
 
