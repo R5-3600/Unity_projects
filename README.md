@@ -1,4 +1,4 @@
-# Welcome to the directory of my Unity projects and where to download the latest pre-built binaries that are built by me
+# Welcome to the directory of my Unity projects and where to download the latest pre-built binaries that are built and hosted by me
 
 The Deep Dark Space (Wallpaper): Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2977570849    |    Android: Coming soon in the fall of 2023.
 
