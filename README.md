@@ -10,6 +10,6 @@ Bean Counters: Windows & Linux: https://github.com/R5-3600/projects/releases/tag
 
 Flappy Cow: Windows & Linux: https://github.com/R5-3600/projects/releases/tag/FlappyCow_V3.0.0    |    Android: https://play.google.com/store/apps/details?id=com.TeamUnusual.FlappyCow
 
-The Chicken Game (re-release): Coming soon...
+The Chicken Game: Windows: https://github.com/R5-3600/projects/releases/tag/TheChickenGame-V3.0.0
 
 Snake Arcade: Windows & Linux: https://github.com/R5-3600/projects/releases/tag/SnakeArcadeV4.1.1
