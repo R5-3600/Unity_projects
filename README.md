@@ -13,3 +13,5 @@ Flappy Cow: Windows & Linux: https://github.com/R5-3600/projects/releases/tag/Fl
 The Chicken Game: Windows: https://github.com/R5-3600/projects/releases/tag/TheChickenGame-V3.0.0
 
 Snake Arcade: Windows & Linux: https://github.com/R5-3600/projects/releases/tag/SnakeArcadeV4.1.1
+
+Flappy Tux: Linux public beta: TBA
