@@ -14,4 +14,4 @@ The Chicken Game: Windows: https://github.com/R5-3600/projects/releases/tag/TheC
 
 Snake Arcade: Windows & Linux: https://github.com/R5-3600/projects/releases/tag/SnakeArcadeV4.1.1
 
-Flappy Tux: Linux V1.0.0 Alpha 1: https://github.com/R5-3600/FlappyTux-LinuxDownloads/releases/download/v1.0.0-alpha.1/FlappyTux-V1.0.0-Alpha1-Linux.zip    |    Linux V1.0.0 Public Beta 1: TBA
+Flappy Tux: Linux V1.0.0 Alpha 1: https://github.com/R5-3600/FlappyTux-LinuxDownloads/releases/download/v1.0.0-alpha.1/FlappyTux-V1.0.0-Alpha1-Linux.zip    |    Linux V1.0.0 Public Beta 1: Coming October 1, 2023
