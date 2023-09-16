@@ -4,7 +4,7 @@
 
 Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2977570849 
 
-Android: Coming soon in the fall of 2023.
+Android: Defunct
 
 ## My Summer Game 
 
