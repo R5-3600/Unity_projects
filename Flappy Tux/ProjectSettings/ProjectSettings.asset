@@ -8,7 +8,7 @@ PlayerSettings:
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
-  defaultScreenOrientation: 4
+  defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
@@ -78,7 +78,7 @@ PlayerSettings:
   androidDefaultWindowHeight: 1080
   androidMinimumWindowWidth: 400
   androidMinimumWindowHeight: 300
-  androidFullscreenMode: 3
+  androidFullscreenMode: 1
   androidApplicationEntry: 1
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
@@ -139,7 +139,7 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
-  bundleVersion: v1.0.0-PublicBeta1
+  bundleVersion: v1.0.0
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -161,15 +161,16 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.TeamUnusual.FlappyTux
     Standalone: com.TeamUnusual.FlappyTux
   buildNumber:
     Standalone: v1.0.0-PublicBeta1
     iPhone: 0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
-  AndroidBundleVersionCode: 300
+  AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 22
-  AndroidTargetSdkVersion: 33
+  AndroidTargetSdkVersion: 34
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 1
@@ -257,8 +258,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 2800000, guid: fd2f30f6b73827a488b60b0a8d2171a5, type: 3}
-  AndroidKeystoreName: '{dedicated}: MySumerGame2.keystore'
-  AndroidKeyaliasName: teamunusual.mysumergame2
+  AndroidKeystoreName: '{dedicated}: TeamUnusual.keystore'
+  AndroidKeyaliasName: teamunusual
   AndroidEnableArmv9SecurityFeatures: 1
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0

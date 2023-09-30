@@ -178,6 +178,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CloseButton
       objectReference: {fileID: 0}
+    - target: {fileID: 7146070439594372035, guid: 8e7c80132a56c654db1865867a65a554, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7146070439594372036, guid: 8e7c80132a56c654db1865867a65a554, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -389,7 +393,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 9e4475496e9cdff4d9d425015d710906, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 1
   Mute: 0

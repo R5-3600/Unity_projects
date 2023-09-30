@@ -177,7 +177,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "      Version: \n LinuxPublicBeta1"
+  m_text: ' Version: V1.0.0'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 039b52c5cd044f3479e3eb609d867b78, type: 2}
   m_sharedMaterial: {fileID: -970224707830832809, guid: 039b52c5cd044f3479e3eb609d867b78, type: 2}
@@ -763,7 +763,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 0ad56adcc88c83d4b830ae22050d69b0, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -858,6 +858,10 @@ PrefabInstance:
     - target: {fileID: 7146070439594372035, guid: 8e7c80132a56c654db1865867a65a554, type: 3}
       propertyPath: m_Name
       value: CloseButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 7146070439594372035, guid: 8e7c80132a56c654db1865867a65a554, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7146070439594372036, guid: 8e7c80132a56c654db1865867a65a554, type: 3}
       propertyPath: m_Pivot.x
