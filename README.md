@@ -30,7 +30,7 @@ Android: https://play.google.com/store/apps/details?id=com.TeamUnusual.ClubPengu
 
 Windows & Linux: https://github.com/R5-3600/projects/releases/tag/FlappyCow_V3.0.0 
 
-Android: https://play.google.com/store/apps/details?id=com.TeamUnusual.FlappyCow
+Android: Delisted
 
 ## The Chicken Game 
 
