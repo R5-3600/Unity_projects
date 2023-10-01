@@ -12,7 +12,7 @@ Windows: https://github.com/R5-3600/projects/releases/tag/MySummerGame-V4.0.3
 
 Android: https://play.google.com/store/apps/details?id=com.TeamUnusual.MySummerGame
 
-## My Summer Game 2 (new) 
+## My Summer Game 2
 
 Demo build 3 (final Windows build): https://github.com/R5-3600/projects/releases/tag/MySummerGame2-V0.5.0 
 
