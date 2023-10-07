@@ -42,8 +42,8 @@ Windows & Linux: https://github.com/R5-3600/projects/releases/tag/SnakeArcadeV4.
 
 ## Flappy Tux (Linux V1 stable, Android V1.1.0, and Windows V1 stable port/final versions coming Q4 2023)
 
-Linux V1.0.0 Alpha 1: https://github.com/R5-3600/FlappyTux-LinuxDownloads/releases/download/v1.0.0-alpha.1/FlappyTux-V1.0.0-Alpha1-Linux.zip 
+Linux V1.0.0 Alpha 1: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.0.0-alpha.1/FlappyTux-V1.0.0-Alpha1-Linux.zip 
 
-Linux V1.0.0 Public Beta 1: https://github.com/R5-3600/FlappyTux-LinuxDownloads/releases/download/v1.0.0-publicbeta.1/FlappyTux-V1.0.0-PublicBeta1-Linux.zip
+Linux V1.0.0 Public Beta 1: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.0.0-publicbeta.1/FlappyTux-V1.0.0-PublicBeta1-Linux.zip
 
 Android V1.0.0: https://play.google.com/store/apps/details?id=com.TeamUnusual.FlappyTux&pli=1
