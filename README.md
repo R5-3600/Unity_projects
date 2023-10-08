@@ -46,4 +46,8 @@ Linux V1.0.0 Alpha 1: https://github.com/R5-3600/FlappyTux-Downloads/releases/do
 
 Linux V1.0.0 Public Beta 1: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.0.0-publicbeta.1/FlappyTux-V1.0.0-PublicBeta1-Linux.zip
 
+Windows V1.0.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.0.0/FlappyTux-V1.0.0-Windows.zip
+
+Linux V1.0.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.0.0/FlappyTux-V1.0.0-Linux.zip
+
 Android V1.0.0: https://play.google.com/store/apps/details?id=com.TeamUnusual.FlappyTux&pli=1
