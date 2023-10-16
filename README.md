@@ -36,9 +36,9 @@ Android: Delisted
 
 Windows: https://github.com/R5-3600/projects/releases/tag/TheChickenGame-V3.0.0
 
-## Snake Arcade (V5 coming soon | V6/final version coming Q4 2023)
+## Snake Arcade (V6/final version coming Q4 2023)
 
-Windows & Linux: https://github.com/R5-3600/projects/releases/tag/SnakeArcadeV4.1.1
+Windows & Linux: https://github.com/R5-3600/projects/releases/tag/SnakeArcade-V5.0.0
 
 ## Flappy Tux (Linux V1 stable, Android V1.1.0, and Windows V1 stable port/final versions coming Q4 2023)
 
