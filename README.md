@@ -50,7 +50,7 @@ Windows V1.0.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download
 
 Linux V1.0.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.0.0/FlappyTux-V1.0.0-Linux.zip
 
-Windows V1.1.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.1.0/FlappyTux-V1.1.0-Windows.zip
+Windows V1.1.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.1.0/FlappyTux-V1.1.0-Windows-x86-x64-arm64-MULTIPLE.zip
 
 Linux V1.1.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.1.0/FlappyTux-V1.1.0-Linux.zip
 
