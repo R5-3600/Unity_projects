@@ -40,7 +40,7 @@ Windows: https://github.com/R5-3600/projects/releases/tag/TheChickenGame-V3.0.0
 
 Windows & Linux: https://github.com/R5-3600/projects/releases/tag/SnakeArcade-V5.0.0
 
-## Flappy Tux (Linux V1 stable, Android V1.1.0, and Windows V1 stable port/final versions coming Q4 2023)
+## Flappy Tux
 
 Linux V1.0.0 Alpha 1: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.0.0-alpha.1/FlappyTux-V1.0.0-Alpha1-Linux.zip 
 
@@ -50,4 +50,8 @@ Windows V1.0.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download
 
 Linux V1.0.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.0.0/FlappyTux-V1.0.0-Linux.zip
 
-Android V1.0.0: https://play.google.com/store/apps/details?id=com.TeamUnusual.FlappyTux&pli=1
+Windows V1.1.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.1.0/FlappyTux-V1.1.0-Windows.zip
+
+Linux V1.1.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.1.0/FlappyTux-V1.1.0-Linux.zip
+
+Android V1.1.0: https://play.google.com/store/apps/details?id=com.TeamUnusual.FlappyTux&pli=1
