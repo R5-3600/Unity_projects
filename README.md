@@ -54,4 +54,4 @@ Windows V1.1.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download
 
 Linux V1.1.0: https://github.com/R5-3600/FlappyTux-Downloads/releases/download/v1.1.0/FlappyTux-V1.1.0-Linux.zip
 
-Android V1.1.0: https://play.google.com/store/apps/details?id=com.TeamUnusual.FlappyTux&pli=1
+Android: Delisted
