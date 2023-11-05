@@ -32,11 +32,11 @@ Windows & Linux: https://github.com/R5-3600/projects/releases/tag/FlappyCow_V3.0
 
 Android: Delisted
 
-## The Chicken Game (V4/final version coming Q4 2023)
+## The Chicken Game
 
 Windows: https://github.com/R5-3600/projects/releases/tag/TheChickenGame-V4.0.0
 
-## Snake Arcade (V6/final version coming Q4 2023)
+## Snake Arcade
 
 Windows & Linux: https://github.com/R5-3600/projects/releases/tag/SnakeArcade-V6.0.0
 
