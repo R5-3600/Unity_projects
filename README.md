@@ -20,9 +20,9 @@ Demo build 4 (first Linux build): Defunct
 
 Public full release for Linux and Android: Defunct
 
-## Bean Counters (V10/final version coming Q4 2023)
+## Bean Counters
 
-Windows & Linux: https://github.com/R5-3600/projects/releases/tag/BeanCounters-V9.5.0 
+Windows & Linux: https://github.com/R5-3600/projects/releases/tag/BeanCounters-V10.0.0 
 
 Android: https://play.google.com/store/apps/details?id=com.TeamUnusual.ClubPenguinBeanCounters
 
