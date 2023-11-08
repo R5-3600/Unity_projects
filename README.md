@@ -1,6 +1,6 @@
 # Welcome to the directory of my Unity projects and where to download the latest pre-built binaries that are built and hosted by me.
 
-## The Deep Dark Space (Wallpaper) (Final version coming Q4 2023)
+## The Deep Dark Space (Wallpaper)
 
 Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2977570849 
 
