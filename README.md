@@ -6,9 +6,9 @@ Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?i
 
 Android: Defunct
 
-## My Summer Game (V6/final version coming Q4 2023)
+## My Summer Game
 
-Windows: https://github.com/R5-3600/projects/releases/tag/MySummerGame-V5.0.0
+Windows: https://github.com/R5-3600/projects/releases/tag/MySummerGame-V6.0.0
 
 Android: https://play.google.com/store/apps/details?id=com.TeamUnusual.MySummerGame
 
