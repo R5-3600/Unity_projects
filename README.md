@@ -4,19 +4,33 @@
 
 Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3075993264
 
+How to make the wallpaper work: https://store.steampowered.com/app/431960/Wallpaper_Engine/
+
 Android: Defunct
 
 ## Club Penguin - Town (Wallpaper)
 
 Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3065591944
 
+Download locally: https://drive.proton.me/urls/75YZ8MD6BW#pFezWreyWnXB
+
+How to make the wallpaper work: https://store.steampowered.com/app/431960/Wallpaper_Engine/
+
 ## Club Penguin - Pizza Parlor (Wallpaper)
 
 Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3072441150
 
+Download locally: https://drive.proton.me/urls/RTMXPRH8FC#URP1X7pcqt3C
+
+How to make the wallpaper work: https://store.steampowered.com/app/431960/Wallpaper_Engine/
+
 ## Club Penguin - Box Dimension (Wallpaper)
 
 Wallpaper Engine on Steam: Coming soon
+
+Download locally: Coming soon
+
+How to make the wallpaper work: https://store.steampowered.com/app/431960/Wallpaper_Engine/
 
 ## My Summer Game
 
