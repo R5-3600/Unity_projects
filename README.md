@@ -8,7 +8,7 @@ Android: Defunct
 
 ## My Summer Game
 
-Windows: https://github.com/R5-3600/projects/releases/tag/MySummerGame-V6.0.0
+Windows & Linux: https://github.com/R5-3600/projects/releases/tag/MySummerGame-V6.0.0
 
 Android: https://play.google.com/store/apps/details?id=com.TeamUnusual.MySummerGame
 
