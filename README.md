@@ -6,6 +6,18 @@ Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?i
 
 Android: Defunct
 
+## Club Penguin - Town (Wallpaper)
+
+Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3065591944
+
+## Club Penguin - Pizza Parlor (Wallpaper)
+
+Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3072441150
+
+## Club Penguin - Box Dimension (Wallpaper)
+
+Wallpaper Engine on Steam: Coming soon
+
 ## My Summer Game
 
 Windows & Linux: https://github.com/R5-3600/projects/releases/tag/MySummerGame-V6.0.0
