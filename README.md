@@ -2,7 +2,7 @@
 
 ## The Deep Dark Space (Wallpaper)
 
-Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3075993264
+Download on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3075993264
 
 How to make the wallpaper work: https://store.steampowered.com/app/431960/Wallpaper_Engine/
 
@@ -10,7 +10,7 @@ Android: Defunct
 
 ## Club Penguin - Town (Wallpaper)
 
-Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3065591944
+Download on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3065591944
 
 Download locally: https://drive.proton.me/urls/75YZ8MD6BW#pFezWreyWnXB
 
@@ -18,7 +18,7 @@ How to make the wallpaper work: https://store.steampowered.com/app/431960/Wallpa
 
 ## Club Penguin - Pizza Parlor (Wallpaper)
 
-Wallpaper Engine on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3072441150
+Download on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3072441150
 
 Download locally: https://drive.proton.me/urls/RTMXPRH8FC#URP1X7pcqt3C
 
@@ -26,9 +26,9 @@ How to make the wallpaper work: https://store.steampowered.com/app/431960/Wallpa
 
 ## Club Penguin - Box Dimension (Wallpaper)
 
-Wallpaper Engine on Steam: Coming soon
+Download on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3080766064
 
-Download locally: Coming soon
+Download locally: https://drive.proton.me/urls/DRECCMCPHW#9UCnpcC9W3j4
 
 How to make the wallpaper work: https://store.steampowered.com/app/431960/Wallpaper_Engine/
 
